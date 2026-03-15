@@ -3,6 +3,8 @@
 DEVELOPED BY: JEEVITHA K
 
 REGISTER NO: 212225040149
+
+
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -51,6 +53,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
+![image](https://github.com/jeevithak7708/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/blob/main/shift%20register.png)
 
 **RESULTS**
 
